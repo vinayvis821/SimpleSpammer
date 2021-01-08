@@ -3,9 +3,10 @@
 Annoy your friends, family, or enemies using this simple chat spammer!
 
 ## How to use
+- Pip install pyautogui from command line (terminal)
 - Download the github repo to your computer
 - In the command line, navigate to the correct directory
-- Run the program using this command: "python3 spammer.py"
+- Run the program using this command: `python3 spammer.py`
 - Follow the directions in the program
 
 ## Instructions for reading from text file
